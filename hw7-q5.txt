@@ -1,0 +1,5 @@
+Greedy start: 909989.8630844268
+
+Greedy length: 856505.6512071084
+
+Dynamic programming: 953259.0817344945

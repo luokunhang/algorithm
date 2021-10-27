@@ -1,0 +1,10 @@
+The order of m for w in ascending order:  [3 4 1 2]
+m1 proposed to w3 successfully.
+m2 proposed to w1 successfully.
+m3 proposed to w1 successfully, m2 dumped.
+m3 proposed to w1 but was rejected.
+m4 proposed to w1 but was rejected.
+m4 proposed to w2 successfully.
+m2 proposed to w1 but was rejected.
+m2 proposed to w2 but was rejected.
+m2 proposed to w4 successfully.
